@@ -1,0 +1,56 @@
+{
+    "devs"   : [
+        {
+            "id"        : 1,
+            "name"      : "Md Abu Raihan",
+            "age"       : 22,
+            "location"  : "Sherpur",
+            "skill"     : "javascript developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/s526x395/267996127_952176215680997_3766712250695824366_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEfA52CVBYXj4fcej9pjUkJ8LVLxxaF4GHwtUvHFoXgYd-98xL-5xmPbq537AIJ4ITUS8oii3HyqHO2JhhRkLhU&_nc_ohc=HffneJc0RkgAX-cs7_W&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_Q6mgNe2GtZn_qSJaPuu3oxL2yQBRrbipFQNi80m6LQw&oe=620E998F"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Md Abu Sayeed",
+            "age"       : 24,
+            "location"  : "comilla",
+            "skill"     : "Laravel developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/164960720_940315936506852_4173724294257936417_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFI4KcPDBGwj9l6a84-Nm5szV43rHee5KfNXjesd57kp8IYieS0_-0WcB9LyOo_wX2-b7TIQ8Q0kMw_aR9mRReq&_nc_ohc=Ksk1u7pntPwAX9HGeUP&tn=drGWuIx59W6GLTP6&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_TY0CkCZieWukNGKErUZfwm0JZvj6zZUirT33jw_-83A&oe=622EEDDE"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Md Achem",
+            "age"       : 24,
+            "location"  : "Dhaka",
+            "skill"     : "PHP developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/268964923_626587678582252_3746122992792772158_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGnSgipkTO_v-m9-bsn9LwzHdqZF5vb1RAd2pkXm9vVEL5b-3HW_7bVdNUkPJ0aGaPV0sYLTyKIJiH8cS3l6FFn&_nc_ohc=mS_3glaLf2kAX-Cr8kj&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT-F2FC-abMjTztsya_wz-dOYktjPK4alk4pX2DYIjgDmg&oe=620F0930"
+        },
+        {
+            "id"        : 4,
+            "name"      : "Md Abu Sufiyan",
+            "age"       : 30,
+            "location"  : "Dhaka",
+            "skill"     : "ISO developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/49723858_10205335070092845_1249664088171085824_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeG-bt7vIrv6iPMbBeVlBR6FCGrjJaLca8kIauMlotxrycnAlTrT6TzCPoxaXq5VoQsaWa41HqyRl2fYZovRi3R1&_nc_ohc=6-3Rdxs0y2EAX9fihl6&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_8hVEdIzntvxYSDi9dMXU7CA3sLVWjqrix5dONhhGl0A&oe=62306E6A"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Md Nur Amin",
+            "age"       : 26,
+            "location"  : "Bogra",
+            "skill"     : "Golang developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/52345638_2034330406650838_1999467976784347136_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHiqMGteY-_21L-AUunAKSHcF3QaDuAvLBwXdBoO4C8sAKQTLatBDHqS8JFkaAFLS1MTsYkBwqbV8xaetYSjLzP&_nc_ohc=Hrf1URRtGJcAX9gBO_7&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT-0QSmy8q7I1xICjb6tlHcyw_lOmygT1A_oEoO0LP6ScQ&oe=6230BE1C"
+        },
+        {
+            "id"        : 6,
+            "name"      : "Ananda Kumar",
+            "age"       : 27,
+            "location"  : "Dhaka",
+            "skill"     : "Wordpress developer",
+            "photo"     : "https://scontent.fjsr11-1.fna.fbcdn.net/v/t1.6435-9/192229578_2921683148095440_6862554419350369636_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeE44XO4jt7jCyxYjZanXdX2UBrcUphbRclQGtxSmFtFycSyseQ2B3Mic-5HxR2OQwgn_3agUQLAPosGenPSZWBj&_nc_ohc=0NCSBKcA31EAX80dNVk&_nc_ht=scontent.fjsr11-1.fna&oh=00_AT_bsAotTzuQ0DjCyUkO6mQlJdUrVNonBuedt3s0lOisYw&oe=622EDAB0"
+        }
+    ]
+
+   
+
+    
+}
